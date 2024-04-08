@@ -1,0 +1,58 @@
+body {
+  background-color: black;
+}
+
+.mydiv {
+  background-color: white;
+  margin: 6px auto;
+  display: flex;
+  width: 800px; 
+  height: 40px;
+  border-radius:none ;
+  border-radius: 15px;
+  justify-content: space-between;
+  font-size: xx-large;
+  padding-left: 30px;
+}
+
+h1{
+  text-align: center;
+  color:white;
+}
+
+.addTaskBtn {
+  margin-left: 10px;
+  height: 38px;
+  font-size: 18px;
+  border-radius: 8px;
+  color: white;
+  font-weight: bold;
+  background-color: lightgreen;
+}
+
+input {
+margin-left: 500px;
+height: 40px;
+text-align: center;
+border-radius: 12px;
+font-size: xx-large;
+
+}
+
+
+
+.btn {
+  background-color: red;
+  color: white;
+  border: none;
+  border-radius: 12px;
+  height: 35px;
+  margin-right: 4px;
+
+}
+
+.right-div {
+  display: flex;
+  justify-content: space-between;
+  margin: 2px 
+}
